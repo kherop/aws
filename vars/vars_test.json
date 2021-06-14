@@ -1,0 +1,11 @@
+{
+    "path_driver": "driver/chromedriver",
+    "folder_local": "",
+
+    "urls_test": {
+        "home": "http://www.top8.es",
+        "technology": "http://top8.es/tecnologia",
+        "sport": "http://top8.es/deportes",
+        "house": "http://top8.es/hogar"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "path_driver": "driver/chromedriver",
+    "amazon_url": "https://www.amazon.es/",
+    "amazon_user": "",
+    "amazon_pass": "",
+    "folder_local": "",
+    "folder_save": "/var/www/html/assets/data/",
+
+    "urlsTop": {
+        "home_intro.json": "https://www.amazon.es/gp/movers-and-shakers/electronics/",
+        "home_technology.json": "https://www.amazon.es/gp/most-wished-for/electronics/",
+        "home_sport.json": "https://www.amazon.es/gp/most-wished-for/sports/",
+        "home_house.json": "https://www.amazon.es/gp/most-wished-for/kitchen/",
+
+        "technology_intro.json": "https://www.amazon.es/gp/bestsellers/electronics/",
+        "technology_mobile.json": "https://www.amazon.es/gp/bestsellers/electronics/17425698031/",
+        "technology_earphone.json": "https://www.amazon.es/gp/bestsellers/electronics/17420905031/",
+        "technology_smartwatch.json": "https://www.amazon.es/gp/bestsellers/electronics/3457446031/",
+        "technology_pc.json": "https://www.amazon.es/gp/bestsellers/electronics/937994031/",
+        "technology_laptop.json": "https://www.amazon.es/gp/bestsellers/electronics/938008031/",
+        "technology_gaming.json": "https://www.amazon.es/gp/bestsellers/videogames/665498031/",
+        "technology_tv.json": "https://www.amazon.es/gp/bestsellers/electronics/934359031/",
+        "technology_audio.json": "https://www.amazon.es/gp/bestsellers/electronics/934339031/",
+
+        "house_intro.json": "https://www.amazon.es/gp/bestsellers/kitchen/",
+        "house_kitchen.json": "https://www.amazon.es/gp/bestsellers/kitchen/2165363031/",
+        "house_health.json": "https://www.amazon.es/gp/bestsellers/hpc/4346880031/",
+        "house_furniture.json": "https://www.amazon.es/gp/bestsellers/kitchen/2822691031/",
+        "house_lighting.json": "https://www.amazon.es/gp/bestsellers/lighting/",
+        
+        "sports_intro.json": "https://www.amazon.es/gp/bestsellers/sports/",
+        "sports_clothing.json": "https://www.amazon.es/gp/bestsellers/sports/2928521031/",
+        "sports_outdoors.json": "https://www.amazon.es/gp/bestsellers/sports/2928471031/",
+        "sports_running.json": "https://www.amazon.es/gp/bestsellers/sports/2928523031/",
+        "sports_scooters.json": "https://www.amazon.es/gp/bestsellers/sports/2930099031/"
+    }
+}
